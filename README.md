@@ -56,19 +56,19 @@ Key Features:
 ```bash
 
 # Clone repository
-git clone https://github.com/yourusername/steel-carbon-predictor.git
-cd steel-carbon-predictor
+git clone https://github.com/JeppesS1423/melt-carbon-predictor
+cd melt-carbon-predictor
 
 # Install dependencies
 pip install -r requirements.txt  # streamlit pandas scikit-learn plotly
 
 # Run the app
-streamlit run carbon_predictor.py
+streamlit run main.py
 ```
 
 🌐 Live Demo
 
-https://static.streamlit.io/badges/streamlit_badge_black_white.svg
+https://melt-carbon-predictor-ddkwzitma27mkjtaxe8qxp.streamlit.app/
 
 🧠 Key Learnings
 
