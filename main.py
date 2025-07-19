@@ -35,6 +35,8 @@ def main():
     Traditional methods rely on static calculations that ignore process dynamics (temperature, 
     scrap mix, melting time). This leads to **off-spec melts and costly rework**.
     """)
+    st.write("""NOTE: This is a tech demo showing a conceptiual application of modern
+    machine learning application in an industrial setting.""")
     # Load data
     df = load_data()
 
